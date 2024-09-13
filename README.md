@@ -20,7 +20,11 @@
 </div>
 
 ###
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ayushmittal62/ayushmittal62/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 
 <h2 align="left">I code with</h2>
