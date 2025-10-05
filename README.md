@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋Hey, I’m Ayush Mittal </h1>
 
 ###
 
@@ -10,7 +10,31 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Machine Learning Engineer</p>
+<p align="left">
+💻 Full Stack & Machine Learning Engineer from Panipat, India 🇮🇳
+🚀 Passionate about building intelligent, data-driven web apps that solve real-world problems.
+I love combining AI + Web + DevOps to create scalable, smart, and meaningful solutions.
+
+⚙️ What I Do
+
+🤖 Machine Learning (PyTorch, scikit-learn, Computer Vision)
+🌐 Full Stack Development (Next.js, TypeScript, Flask, Supabase)
+☁️ AIOps & Automation (Kubernetes, SigNoz, OpenTelemetry)
+
+🏆 Highlights
+
+🥇 Winner @ HackOps 2024 – Built Trade Harvest, an AI-powered farmers’ marketplace
+💼 ML Intern @ Opstree – Worked on Auto Remediation & Monitoring Systems
+💻 Software Intern @ EduAI – Developed AI-powered EdTech applications
+🧑‍💼 Team Leader @ NEC, IIT Bombay 2024
+
+🎯 Goals
+
+To innovate as a Machine Learning Engineer, building real-time, intelligent systems.
+
+☕ Creating bugs (and fixing them) since 2022.
+
+<br>🎯 Goals: Machine Learning Engineer</p>
 
 ###
 
