@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ayush Mittal and I'm a Full Stack and Machine Learning Engineer, from Panipat, INDIA</p>
+<p align="left">My name is Ayush Mittal and I'm a AI Automation and Machine Learning Engineer, from Panipat, INDIA</p>
 
 ###
 
