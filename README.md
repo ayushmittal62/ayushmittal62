@@ -1,129 +1,163 @@
-<h1 align="left">Hey 👋Hey, I’m Ayush Mittal </h1>
+<div align="center">
 
-###
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║          AI × FULL STACK × DEVOPS ENGINEER              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="left">My name is Ayush Mittal and I'm a AI Automation and Machine Learning Engineer, from Panipat, INDIA</p>
+# Ayush Mittal
 
-###
+**`Building intelligent systems at the intersection of AI, Web & Cloud`**
 
-<h2 align="left">About me</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ML+%26+AI+Automation+Engineer;Full+Stack+Developer+%7C+Next.js+%2B+TypeScript;AIOps+%26+MLOps+Practitioner;Building+since+2022+%E2%80%94+still+shipping.)](https://git.io/typing-svg)
 
-###
+<br/>
 
-<p align="left">
-💻 Full Stack & Machine Learning Engineer from Panipat, India 🇮🇳
-🚀 Passionate about building intelligent, data-driven web apps that solve real-world problems.
-I love combining AI + Web + DevOps to create scalable, smart, and meaningful solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mittal629/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ay_ush_mittal629/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmittal629@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/ayushmittal629)
 
-⚙️ What I Do
+![Profile Views](https://komarev.com/ghpvc/?username=ayushmittal62&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-🤖 Machine Learning (PyTorch, scikit-learn, Computer Vision)
-🌐 Full Stack Development (Next.js, TypeScript, Flask, Supabase)
-☁️ AIOps & Automation (Kubernetes, SigNoz, OpenTelemetry)
+</div>
 
-🏆 Highlights
+---
 
-🥇 Winner @ HackOps 2024 – Built Trade Harvest, an AI-powered farmers’ marketplace
-💼 ML Intern @ Opstree – Worked on Auto Remediation & Monitoring Systems
-💻 Software Intern @ EduAI – Developed AI-powered EdTech applications
-🧑‍💼 Team Leader @ NEC, IIT Bombay 2024
+## ⚡ About Me
 
-🎯 Goals
+```python
+class AyushMittal:
+    def __init__(self):
+        self.name       = "Ayush Mittal"
+        self.location   = "Panipat, Haryana 🇮🇳"
+        self.role       = "AI Automation & ML Engineer"
+        self.stack      = ["ML/DL", "Full Stack", "AIOps", "DevOps"]
+        self.currently  = "Building real-time intelligent systems"
+        self.goal       = "Innovate at the frontier of AI + Web + Cloud"
 
-To innovate as a Machine Learning Engineer, building real-time, intelligent systems.
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something impactful.")
+```
 
-☕ Creating bugs (and fixing them) since 2022.
+- 🤖 **ML Engineer** working with PyTorch, scikit-learn & Computer Vision
+- 🌐 **Full Stack Dev** — Next.js · TypeScript · Flask · Supabase
+- ☁️ **AIOps** — Kubernetes · SigNoz · OpenTelemetry
+- 🏆 **HackOps 2024 Winner** — Built *Trade Harvest*, AI-powered farmers' marketplace
+- 💼 **ML Intern @ Opstree** — Auto Remediation & Monitoring Systems
+- 💻 **Software Intern @ EduAI** — AI-powered EdTech applications
+- 🧑‍💼 **Team Lead @ NEC, IIT Bombay 2024**
+- ☕ Creating bugs (and fixing them) since **2022**
 
-<br>🎯 Goals: Machine Learning Engineer</p>
+---
 
-###
+## 🧠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Frontend & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### DevOps & Tools
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🏆 Highlights & Achievements
+
+| 🥇 | **HackOps 2024 Winner** | Built *Trade Harvest* — AI-powered farmers' marketplace |
+|---|---|---|
+| 💼 | **ML Intern @ Opstree** | Auto Remediation & Monitoring with OpenTelemetry |
+| 💻 | **Software Intern @ EduAI** | AI-powered EdTech platform development |
+| 🧑‍💼 | **Team Lead @ NEC, IIT Bombay 2024** | Led cross-functional engineering team |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmittal62&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ayushmittal62&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushmittal62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmittal62&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushmittal62&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushmittal62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/ayushmittal62/ayushmittal62/output/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
-###
-###
+## 🎯 Currently Working On
 
-<h2 align="left">I code with</h2>
+```
+▸ Real-time ML pipelines with low-latency inference
+▸ AIOps tooling for automated system remediation
+▸ Full-stack AI SaaS products with Next.js + Supabase
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+## 📬 Let's Connect
+
+<div align="center">
+
+**Open to collaborations, internships & full-time ML/SDE roles.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mittal629/)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmittal629@gmail.com)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ayush-mittal629/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ay_ush_mittal629/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="ayushmittal629@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ayushmittal629" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+**⭐ Star some repos if you find them useful — it motivates me to build more!**
+
 </div>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Baction/30-nites-of-code)  
-  ![@Baction #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Baction)
-
-###
