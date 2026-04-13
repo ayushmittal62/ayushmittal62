@@ -96,41 +96,6 @@ class AyushMittal:
 
 ---
 
-## 🏆 Highlights & Achievements
-
-| 🥇 | **HackOps 2024 Winner** | Built *Trade Harvest* — AI-powered farmers' marketplace |
-|---|---|---|
-| 💼 | **ML Intern @ Opstree** | Auto Remediation & Monitoring with OpenTelemetry |
-| 💻 | **Software Intern @ EduAI** | AI-powered EdTech platform development |
-| 🧑‍💼 | **Team Lead @ NEC, IIT Bombay 2024** | Led cross-functional engineering team |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushmittal62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmittal62&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushmittal62&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushmittal62&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ayushmittal62/ayushmittal62/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 ```
